@@ -4,9 +4,8 @@
 <h1 align="center">
   Gruvbox Theme for iTerm2
 </h1>
-<p align="center">
+
   A minimal, dark theme based on the [Guvbox](https://github.com/morhetz/gruvbox-contrib) color scheme
-</p>
 
 
 ![Demo](images/demo.png)
