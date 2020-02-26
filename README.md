@@ -20,3 +20,5 @@
 ![](images/settings.png)
 
 I'm currently using the [Agnoster Prompt/Theme](https://github.com/agnoster/agnoster-zsh-theme) for [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
+
+If you enjoy this theme, feel free to [buy me a coffee!](https://www.buymeacoffee.com/kyleblanc)
