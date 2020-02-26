@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="Halcyon" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
-</p>
+
 <h1 align="center">
   Gruvbox Theme for iTerm2
 </h1>
